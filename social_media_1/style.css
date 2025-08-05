@@ -1,0 +1,23 @@
+
+:root {
+    --primary-color: #f6f6f6;
+    --text-color: #2f2f2f;
+    --card-color: #ffcb74;
+    --text-secondary-color: #111111;
+    --gradient-1: linear-gradient(135deg, #F3904F 0%, #3B4371 100%);
+
+}
+
+.body {
+    width: 100vw;
+    
+}
+nav {
+ 
+    font-size: small;
+}
+
+.navbar-brand {
+    font-size: 20px;
+
+}
